@@ -1,4 +1,4 @@
-The aim is to 
+The aim is to implement a system that uses AES to encrypt data and RSA to protect AES keys.
 
 ● Genkeys.py:
 This python program is used to generate the public and private keys of the user. It takes as input the name of the user from the common line. The output of the program is two files .prv and .pub containing the private and public keys respectively.
